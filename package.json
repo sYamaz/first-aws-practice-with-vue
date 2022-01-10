@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "vuetify": "^3.0.0-alpha.12"
   }
 }
